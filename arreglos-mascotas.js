@@ -10,7 +10,8 @@ const doctores = ["Matheo", "Diana", "Mary", "Jose", "Elio"]
 // Se comienza a manipular HTML 
 // Se identifica la tabla donde se guardan las mascotas
 let tablaMascotas = document.getElementById("tabla-mascotas")
-let cuerpoTabla = tablaMascotas.getElementsByTagName("tbody")[0];
+// Busca en el HTML el elemento que tenga la etiqueta tbody
+let cuerpoTabla = tablaMascotas.getElementsByTagName("tbody")[0]
 
 for (let i = 0; i < nombresMascotas.length; i++) {
     // Se crea una fila y se añade al cuerpo de la tabla
