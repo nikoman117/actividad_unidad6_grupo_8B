@@ -1,0 +1,20 @@
+[
+    {
+        "nombreMascota": "Lulu",
+        "nombreDuenio": "Sonia",
+        "cedulaDuenio": 123456,
+        "edadMascota": 2,
+        "telefonoDuenio": 32145,
+        "especialidad": "Medicina General",
+        "doctor": "Karol"
+    },
+    {
+        "nombreMascota": "Simba",
+        "nombreDuenio": "Carlos",
+        "cedulaDuenio": 789456,
+        "edadMascota": 4,
+        "telefonoDuenio": 45564,
+        "especialidad": "Odongología",
+        "doctor": "Diana"
+    }
+]
