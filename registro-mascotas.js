@@ -17,7 +17,7 @@ formulario.addEventListener("submit", function (event) {
         telefono: telefono.value,
         especialidad: especialidad.value,
     }
-    const mascotas = []
+    let mascotas = []
     let localMascotas = localStorage.getItem("mascotas")
     if (localMascotas) {
         mascotas = JSON.parse(localMascotas)
