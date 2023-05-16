@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #F1C40F;
     color: #fff;
     padding: 20px;
 }
@@ -45,8 +45,8 @@ select {
 
 input[type="submit"],
 input[type="button"] {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #F1C40F;
+    color: black;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -57,7 +57,7 @@ input[type="button"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #3e8e41;
+    background-color: #F1C40F;
 }
 
 span {
@@ -76,8 +76,8 @@ th,
 td {
     padding: 10px;
     text-align: center;
-    border: 5px solid #4CAF50;
-    background-color: #4CAF50;
+    border: 5px solid #F1C40F;
+    background-color: #F1C40F;
 
 
 }
